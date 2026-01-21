@@ -27,6 +27,9 @@ Email Me 👉 ✉️ **luckysteven5757@gmail.com** For Collaboration/Project or 
 </div>
 
 
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Luckygithubrit" alt="trophy" />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
