@@ -9,6 +9,7 @@ Email Me 👉 ✉️ **luckysteven5757@gmail.com** For Collaboration/Project or 
 - 📫 **How to reach me:** laveenpappu5757@gmail.com
 - 😄 **Pronouns:** lucky
 - ⚡ **Fun fact:** tech enthusiast
+<img align="right" margin-top="40px" alt="coding gif" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
 
