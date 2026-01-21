@@ -3,13 +3,22 @@
 
 Email Me 👉 ✉️ **luckysteven5757@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+
+
+
 - 🔭 **I’m currently working on:** healthcare website
 - 🌱 **I’m currently learning:** flutter
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** laveenpappu5757@gmail.com
 - 😄 **Pronouns:** lucky
-- ⚡ **Fun fact:** tech enthusiast
+- ⚡ **Fun fact:** tech enthusiast<div align="right"> <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="200" /> </div>
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1600">
+<br><br>
+  
 <img align="right" margin-top="40px" alt="coding gif" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 
 
 
