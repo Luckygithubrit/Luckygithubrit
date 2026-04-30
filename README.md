@@ -6,8 +6,8 @@ Email Me 👉 ✉️ **luckysteven5757@gmail.com** For Collaboration/Project or 
 
 
 
-- 🔭 **I’m currently working on:** healthcare website
-- 🌱 **I’m currently learning:** flutter
+- 🔭 **I’m currently working on:** spring boot
+- 🌱 **I’m currently learning:** spring boot
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** laveenpappu5757@gmail.com
 - 😄 **Pronouns:** lucky
