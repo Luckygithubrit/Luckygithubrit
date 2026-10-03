@@ -12,6 +12,9 @@ Email Me 👉 ✉️ **luckysteven5757@gmail.com** For Collaboration/Project or 
 - 📫 **How to reach me:** laveenpappu5757@gmail.com
 - 😄 **Pronouns:** lucky
 - ⚡ **Fun fact:** tech enthusiast<div align="right"> <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="200" /> </div>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Luckygithubrit.Luckygithubrit&"  />
+</div>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1600">
